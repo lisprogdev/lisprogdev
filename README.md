@@ -7,7 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/mns-progdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mns-progdev" height="30" width="40" /></a>
+<a href="https://dev.to/lisprogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lisprogdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muh-nurkhalis-502964350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muh-nurkhalis-502964350" height="30" width="40" /></a>
+<a href="https://codesandbox.com/lisprogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="lisprogdev" height="30" width="40" /></a>
 <a href="https://fb.com/muh.nurkhalis.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muh.nurkhalis.52" height="30" width="40" /></a>
 <a href="https://instagram.com/mnsdevcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnsdevcode" height="30" width="40" /></a>
 </p>
