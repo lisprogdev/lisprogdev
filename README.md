@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gue%20Khalis&fontSize=80&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20|%20Front-End%20Dev%20|%20AI%20Enthusiast&descAlignY=51&descAlign=62" width="100%" />
-</div>
 
 ## 👨‍💻 About Me
 
